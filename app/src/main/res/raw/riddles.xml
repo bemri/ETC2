@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<riddleList>
+    <riddle>
+        <coordinateV>47.498963</coordinateV>
+        <coordinateV1>19.043533</coordinateV1>
+        <name>First riddle - number - 3 chances</name>
+        <question>First question</question>
+        <answer>4</answer>
+        <type>1</type>
+        <zoom>17.0</zoom>
+        <maxFailures>3</maxFailures>
+    </riddle>
+    <riddle>
+        <coordinateV>48.498963</coordinateV>
+        <coordinateV1>20.043533</coordinateV1>
+        <name>Second riddle - text - 2 chances</name>
+        <question>Second question</question>
+        <answer>Second answer</answer>
+        <type>2</type>
+        <zoom>10</zoom>
+        <maxFailures>2</maxFailures>
+    </riddle>
+    <riddle>
+        <coordinateV>49.498963</coordinateV>
+        <coordinateV1>21.043533</coordinateV1>
+        <name>Third riddle - text choice - 1 chance</name>
+        <question>Third question</question>
+        <answer>Third answer</answer>
+        <type>3</type>
+        <zoom>15</zoom>
+        <maxFailures>1</maxFailures>
+        <choiceList>
+            <choice>First answer</choice>
+            <choice>Second answer</choice>
+            <choice>Third answer</choice>
+            <choice>Fourth answer</choice>
+            <choice>Fifth answer</choice>
+        </choiceList>
+    </riddle>
+    <riddle>
+        <coordinateV>50.498963</coordinateV>
+        <coordinateV1>22.043533</coordinateV1>
+        <name>Fourth riddle - picture choice - 2 chances</name>
+        <question>Fourth question</question>
+        <answer>Fourth answer</answer>
+        <type>4</type>
+        <zoom>16</zoom>
+        <maxFailures>2</maxFailures>
+        <choiceList>
+            <choice>First.jpg</choice>
+            <choice>Second.jpg</choice>
+            <choice>Third.jpg</choice>
+            <choice>Fourth.jpg</choice>
+            <choice>Fifth.jpg</choice>
+        </choiceList>
+    </riddle>
+    <riddle>
+        <coordinateV>50.498963</coordinateV>
+        <coordinateV1>23.043533</coordinateV1>
+        <name>Fifth riddle - audio choice - 5 chances</name>
+        <question>Fifth question</question>
+        <answer>Fifth answer</answer>
+        <type>5</type>
+        <zoom>10</zoom>
+        <maxFailures>5</maxFailures>
+        <choiceList>
+            <choice>First.mp3</choice>
+            <choice>Second.mp3</choice>
+            <choice>Third.mp3</choice>
+            <choice>Fourth.mp3</choice>
+            <choice>Fifth.mp3</choice>
+        </choiceList>
+    </riddle>
+    <riddle>
+        <coordinateV>50.498963</coordinateV>
+        <coordinateV1>24.043533</coordinateV1>
+        <name>Sixth riddle - timed text choice - 1 chance</name>
+        <question>Sixth question</question>
+        <answer>Sixth answer</answer>
+        <type>6</type>
+        <zoom>17</zoom>
+        <maxFailures>1</maxFailures>
+        <choiceList>
+            <choice>First timed answer</choice>
+            <choice>Second timed answer</choice>
+            <choice>Third timed answer</choice>
+            <choice>Fourth timed answer</choice>
+            <choice>Fifth timed answer</choice>
+        </choiceList>
+    </riddle>
+    <riddle>
+        <coordinateV>50.498963</coordinateV>
+        <coordinateV1>22.043533</coordinateV1>
+        <name>Seventh riddle - timed picture choice - 2 chances</name>
+        <question>Seventh question</question>
+        <answer>Seventh answer</answer>
+        <type>7</type>
+        <zoom>11</zoom>
+        <maxFailures>2</maxFailures>
+        <choiceList>
+            <choice>FirstTimed.jpg</choice>
+            <choice>SecondTimed.jpg</choice>
+            <choice>ThirdTimed.jpg</choice>
+            <choice>FourthTimed.jpg</choice>
+            <choice>FifthTimed.jpg</choice>
+        </choiceList>
+    </riddle>
+</riddleList>
