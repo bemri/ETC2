@@ -6,6 +6,7 @@ import java.util.ArrayList;
 
 public class RiddleManager {
 
+
     private ArrayList<Riddle> mRiddles;
     private short mActualRiddle;
     private boolean mSolvedAll = false;

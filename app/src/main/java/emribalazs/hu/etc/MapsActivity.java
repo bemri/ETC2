@@ -28,7 +28,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private GoogleMap mMap;
 
     //Dialogs
-    private SolutionDialog mSolutionDialogasd;
+    private SolutionDialog mSolutionDialog;
+    private int refact;
 
     //Riddles
     private RiddleManager mRiddleManager;
